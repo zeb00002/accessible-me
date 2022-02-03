@@ -1,17 +1,17 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  background-color:blanchedalmond;
   margin: 0;
   padding: 0;
+  color:#404040;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
+
+
+p{
+  font-size: 18px;
+  font-family:'Times New Roman', Times, serif;
+  font-weight:400;
 }
 
 .container {
@@ -68,4 +68,8 @@ form button {
 
 .site-footer {
   padding: 2rem 0;
+}
+
+.current a:link{
+  background-color:#AEE8C9;
 }
